@@ -1,7 +1,7 @@
 ### Hi, I am Trisala Thapa
 ## A DevOps student, and Cloud Engineer Intern
 
-🌱 I’m currently learning DevOps, AWS, Python.
+
 
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02 
 
@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+🌱 I’m currently learning DevOps, AWS, Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
