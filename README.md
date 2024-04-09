@@ -1,4 +1,5 @@
 ### Hi, I am Trisala Thapa
+## A DevOps student, and Cloud Engineer Intern
 
 🌱 I’m currently learning DevOps, AWS, Python.
 
