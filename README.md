@@ -1,6 +1,7 @@
 ### Hi, I am Trisala Thapa
 
 🌱 I’m currently learning DevOps, AWS, Python.
+
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02 
 
 <!--
