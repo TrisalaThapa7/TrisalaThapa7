@@ -1,5 +1,5 @@
 ### Hi, I am Trisala Thapa
-## A passionate DevOps Engineer enrolled in DevOps for Cloud Computing, and
+## A passionate DevOps Engineer recently post-graduated in DevOps for Cloud Computing from Lambton College
 ## Cloud Engineer Intern @Vosyn INC.
 
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 
 - 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Dancing, Cycling
 
 -->
