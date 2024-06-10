@@ -3,11 +3,11 @@
 ## Cloud Engineer Intern @Vosyn INC.
 
 
-🌱 I’m currently learning Terraform, Kubernetes, MongoDB.
+🌱 I’m currently learning Terraform, GO.
 
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02, trisalathapa7@gmail.com
 
-💬 Ask me about AWS services (EC2, Lambda, EKS, ECS, Fargate, ECR, S3, Cloudwatch, SQS/SNS), Docker, SQL.
+💬 Ask me about AWS, DevOps
 
 <!--
 **TrisalaThapa7/TrisalaThapa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
