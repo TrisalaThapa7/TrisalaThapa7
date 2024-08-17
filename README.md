@@ -3,11 +3,11 @@
 ## Cloud Engineer Intern @Vosyn INC.
 
 
-🌱 I’m currently learning Terraform, GO.
+🌱 I’m currently learning DevOps tools.
 
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02, trisalathapa7@gmail.com
 
-💬 Ask me about AWS, DevOps
+💬 Ask me about AWS, DevOps, Terraform
 
 <!--
 **TrisalaThapa7/TrisalaThapa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
