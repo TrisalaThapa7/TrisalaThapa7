@@ -4,8 +4,11 @@
 
 
 🌱 I’m currently learning DevOps tools.
+
 🔭 I’m currently working on myself.
+
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02, trisalathapa7@gmail.com
+
 💬 Ask me about AWS, DevOps, Terraform
 
 <!--
