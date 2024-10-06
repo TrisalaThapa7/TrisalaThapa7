@@ -1,12 +1,11 @@
 ### Hi, I am Trisala Thapa
-## A passionate DevOps Engineer recently post-graduated in DevOps for Cloud Computing from Lambton College
-## Cloud Engineer Intern @Vosyn INC.
+## A passionate DevOps Engineer | Experienced Network Analyst
+## Recently completed internship as Cloud Engineer Intern @Vosyn INC.
 
 
 🌱 I’m currently learning DevOps tools.
-
+🔭 I’m currently working on myself.
 📫 How to reach me: www.linkedin.com/in/trisala-thapa02, trisalathapa7@gmail.com
-
 💬 Ask me about AWS, DevOps, Terraform
 
 <!--
@@ -14,7 +13,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 
