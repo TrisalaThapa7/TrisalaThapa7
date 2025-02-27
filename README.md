@@ -1,15 +1,26 @@
-### Hi, I am Trisala Thapa
-## A passionate DevOps Engineer | Experienced Network Analyst
-## Recently completed internship as Cloud Engineer Intern @Vosyn INC.
+### Hi, I'm Trisala Thapa
+## Network Support Analyst | Cloud Enthusiast | DevOps
 
+🚀 Passionate about optimizing cloud infrastructure and delivering exceptional customer experiences.
 
-🌱 I’m currently learning DevOps tools.
+🌱 Currently Learning
+ Deepening my knowledge in DevOps practices, AWS, Terraform, and actively working on GCP Cloud Associate certification.
+
+ 🔭 What I'm Working On
+    Expanding my expertise in cloud technologies (AWS, Docker, Kubernetes).
+    Building CI/CD pipelines using GitHub Actions and GitLab CI for faster, more efficient deployments.
+
+ 💬 Ask me about AWS, DevOps tools, GitLab CI, GitHub CI, Terraform, Cloud Engineering, Networking, CI/CD Pipelines.
+
+🧑‍💻Recently completed a Cloud Engineer internship at Vosyn Inc., working with AWS services and deploying infrastructure automation tools.
 
 🔭 I’m currently working on myself.
 
-📫 How to reach me: www.linkedin.com/in/trisala-thapa02, trisalathapa7@gmail.com
+📫 How to Reach Me
+    LinkedIn: Trisala Thapa
+    Email: trisalathapa7@gmail.com
 
-💬 Ask me about AWS, DevOps, Terraform
+
 
 <!--
 **TrisalaThapa7/TrisalaThapa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
