@@ -12,13 +12,12 @@
 
  💬 Ask me about AWS, DevOps tools, GitLab CI, GitHub CI, Terraform, Cloud Engineering, Networking, CI/CD Pipelines.
 
-🧑‍💻Recently completed a Cloud Engineer internship at Vosyn Inc., working with AWS services and deploying infrastructure automation tools.
+ 🧑‍💻Recently completed a Cloud Engineer internship at Vosyn Inc., working with AWS services and deploying infrastructure automation tools.
 
-🔭 I’m currently working on myself.
+ 🔭 I’m currently working on myself.
 
 ### 📫 **How to Reach Me**  
--
-  <a href="https://www.linkedin.com/in/trisala-thapa02"><img src="https://github.com/TrisalaThapa7/TrisalaThapa7/raw/main/images/linkedinlogo.webp" alt="LinkedIn" width="35" /></a> 
+-  <a href="https://www.linkedin.com/in/trisala-thapa02"><img src="https://github.com/TrisalaThapa7/TrisalaThapa7/raw/main/images/linkedinlogo.webp" alt="LinkedIn" width="45" /></a> 
 - Email: trisalathapa7@gmail.com
 
 
