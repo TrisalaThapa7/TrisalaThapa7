@@ -14,10 +14,9 @@
 
  🧑‍💻Recently completed a Cloud Engineer internship at Vosyn Inc., working with AWS services and deploying infrastructure automation tools.
 
- 🔭 I’m currently working on myself.
-
-### 📫 **How to Reach Me**  <a href="https://www.linkedin.com/in/trisala-thapa02"><img src="https://github.com/TrisalaThapa7/TrisalaThapa7/raw/main/images/linkedinlogo.webp" alt="LinkedIn" width="45" /></a> 
-         Email: trisalathapa7@gmail.com
+### 📫 **How to Reach Me**  
+      -  www.linkedin.com/in/trisala-thapa02 
+      -  Email: trisalathapa7@gmail.com
 
 
 
