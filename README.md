@@ -17,7 +17,7 @@
 🔭 I’m currently working on myself.
 
 ### 📫 **How to Reach Me**  
-- [![LinkedIn](https://github.com/yourusername/yourrepository/raw/main/images/linkedinlogo.webp)](https://www.linkedin.com/in/trisala-thapa02)  
+- [![LinkedIn](https://github.com/TrisalaThapa7/yourrepository/raw/main/images/linkedinlogo.webp)](https://www.linkedin.com/in/trisala-thapa02)  
 - Email: trisalathapa7@gmail.com
 
 
