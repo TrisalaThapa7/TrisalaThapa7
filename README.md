@@ -17,7 +17,7 @@
 🔭 I’m currently working on myself.
 
 📫 How to Reach Me
-    LinkedIn: Trisala Thapa
+    LinkedIn: www.linkedin.com/in/trisala-thapa02
     Email: trisalathapa7@gmail.com
 
 
