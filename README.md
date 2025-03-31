@@ -3,7 +3,6 @@
 
 🚀 Passionate about optimizing cloud infrastructure and delivering exceptional customer experiences.
 
-🌱 Currently Learning
    - Deepening my knowledge in DevOps practices, AWS, Terraform, and actively working on GCP Cloud Associate certification.
 
  🔭 What I'm Working On
