@@ -1,12 +1,12 @@
 ### Hi, I'm Trisala Thapa
-## Network Support Analyst | Cloud Enthusiast | DevOps
+## DevOps Engineer | Cloud Engineer | Network Analyst
 
 🚀 Passionate about optimizing cloud infrastructure and delivering exceptional customer experiences.
 
    - Deepening my knowledge in DevOps practices, AWS, Terraform, and actively working on GCP Cloud Associate certification.
 
  🔭 What I'm Working On
-   - Expanding my expertise in cloud technologies (AWS, Docker, Kubernetes).
+   - Expanding my expertise in cloud technologies (AWS, Azure, Terraform, Docker, Kubernetes).
    - Building CI/CD pipelines using GitHub Actions and GitLab CI for faster, more efficient deployments.
 
  💬 Ask me about AWS, DevOps tools, GitLab CI, GitHub CI, Terraform, Cloud Engineering, Networking, CI/CD Pipelines.
